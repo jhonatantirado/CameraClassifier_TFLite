@@ -10,3 +10,5 @@
 /captures
 .externalNativeBuild
 /.idea/caches
+/app/src/main/assets/inceptionv3_slim_2016.tflite
+/app/src/main/assets/mobilenet_quant_v1_224.tflite
