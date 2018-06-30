@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "E:\\TensorFlow\\TrabajoFinalADS\\TFRepo\\tensorflow\\tensorflow\\contrib\\lite\\java\\demo\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\ecdbed90d0ab9272d2f763a66fe17ad28cdad875\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]
